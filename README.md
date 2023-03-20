@@ -1,12 +1,20 @@
 # Hi. I'm Peter (Pedro, for the portuguese).
 
-Graduating Information Systems on PUCPR University on Brazil.
+# About me
 
-My professional skills:
-Fullstack Developer;
->PhP 8, Laravel and Symfony framework, TailwindCSS v3.2.4, Docker and Drupal 10;
+> Graduating Information Systems on PUCPR University on Brazil;
+> Learning Python and Java by myself;
+> A bit of experience on PHP, Mint Linux and Docker Engine.
+
+# My tech skills
 
 
+![My Skills](https://skills.thijs.gg/icons?i=html,css,docker,git,php,mysql,postgres,tailwind)
+
+# About my work on GitHub
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=petersudario&show_icons=true&theme=transparent&locale=pt-BR )
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petersudario&theme=transparent&layout=compact&locale=pt-BR)
 
 # Contact me!
 >E-mail: petersudariobusiness@gmail.com
