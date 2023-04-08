@@ -6,7 +6,9 @@
 
 > Learning Python and Java by myself;
 
-> A bit of experience on PHP, Mint Linux and Docker Engine.
+> Experience on PHP, Linux and Docker;
+
+> I love games and building fullstack applications;
 
 # My tech skills
 
