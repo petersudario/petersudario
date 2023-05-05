@@ -4,9 +4,9 @@
 
 > Graduating Information Systems on PUCPR University on Brazil;
 
-> Learning Python and Java by myself;
+> Learning Java by myself;
 
-> Experience on PHP, Linux and Docker;
+> Experience on PHP, Python, Linux and Docker;
 
 > I love games and building fullstack applications;
 
