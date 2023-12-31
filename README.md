@@ -8,7 +8,7 @@
 
 # My tech skills
 
-![My Skills](https://skills.thijs.gg/icons?i=html,css,js,php,python,flutter,dart,java,react,bash,mysql,postgres,firebase,mongodb,docker,gitlab,grafana,linux)
+![My Skills](https://skills.thijs.gg/icons?i=html,css,js,java,cpp,php,python,dart,bash,react,laravel,symfony,flutter,mysql,postgres,firebase,mongodb,docker,gitlab,grafana,linux,nginx)
 
 # About my work on GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=petersudario&show_icons=true&theme=transparent&locale=pt-BR )
