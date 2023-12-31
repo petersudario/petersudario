@@ -4,16 +4,11 @@
 
 > Graduating Information Systems on PUCPR University on Brazil;
 
-> Learning Python and Java by myself;
-
-> Experience on PHP, Linux and Docker;
-
-> I love games and building fullstack applications;
+> I love games and building applications;
 
 # My tech skills
 
-
-![My Skills](https://skills.thijs.gg/icons?i=html,css,docker,git,php,mysql,postgres,tailwind)
+![My Skills](https://skills.thijs.gg/icons?i=html,css,js,php,python,flutter,dart,java,react,bash,mysql,postgres,firebase,mongodb,docker,gitlab,grafana,linux)
 
 # About my work on GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=petersudario&show_icons=true&theme=transparent&locale=pt-BR )
