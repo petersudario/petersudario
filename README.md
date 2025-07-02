@@ -9,6 +9,10 @@
 - Hi, I'm Pepo
 >
 > I love gaming, Star Wars, Comics, Listen to music, go out with friends & to code
+> Front-end, Back-end and Mobile Developer (iOS/Android)
+> Amateur UI Designer
+>
+> Apple Developer Academy 2025/2026 student
 
 
 
