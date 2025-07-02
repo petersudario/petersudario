@@ -8,7 +8,8 @@
 
 - Hi, I'm Pepo
 >
-> I love gaming, Star Wars, Comics, Listen to music, go out with friends & to code
+> I love gaming, comics, movies, music, go out with friends & to code
+>
 > Front-end, Back-end and Mobile Developer (iOS/Android)
 > Amateur UI Designer
 >
