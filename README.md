@@ -10,6 +10,7 @@
 > Front-end, Back-end and Mobile Developer (iOS/Android)
 >
 > I love gaming, comics, movies, music, go out with friends & to code
+>
 > Photographer in my free time
 >
 > Apple Developer Academy 2025/2026 student - B.S. in Information Systems, PUCPR/Brazil
