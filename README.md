@@ -5,15 +5,13 @@
 </div>
 <br>
 
-- Hi, I'm Pepo
+- Hi, I'm Pepo.
 >
-> Front-end, Back-end and Mobile Developer (iOS/Android)
+> Front-end, Back-end and Mobile Developer (iOS/Android);
 >
-> I love gaming, comics, movies, music, go out with friends & to code
+> I love gaming, comics, movies, music, go out with friends & to code. Photographer in my free time;
 >
-> Photographer in my free time
->
-> Apple Developer Academy 2025/2026 student - B.S. in Information Systems, PUCPR/Brazil
+> Apple Developer Academy 2025/2026 student - B.S. in Information Systems, PUCPR/Brazil;
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
