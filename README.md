@@ -7,13 +7,11 @@
 
 - Hi, I'm Pepo
 >
-> I love gaming, comics, movies, music, go out with friends & to code
->
 > Front-end, Back-end and Mobile Developer (iOS/Android)
 >
-> Amateur UI Designer
+> I love gaming, comics, movies, music, go out with friends & to code
 >
-> Apple Developer Academy 2025/2026 student
+> Apple Developer Academy 2025/2026 student - B.S. in Information Systems, PUCPR/Brazil
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
